@@ -1,5 +1,5 @@
 rancher:
     environment:
-        VLOUME_NFS_OPTIONS: ' -o nolock'
+        VOLUME_NFS_OPTIONS: ' -o nolock'
     services_include:
         volume-nfs: true
