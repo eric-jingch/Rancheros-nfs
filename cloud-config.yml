@@ -1,3 +1,4 @@
+#cloud-config
 rancher:
     environment:
         VOLUME_NFS_OPTIONS: ' -o nolock'
